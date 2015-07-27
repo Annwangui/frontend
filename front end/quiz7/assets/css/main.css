@@ -1,0 +1,72 @@
+/*start:body*/
+body{ 
+	background-color:rgba(135,206,235,0.1); 
+	border-color:#E6E6FA;
+	margin-top: 100px;
+
+   
+}
+/*end:body*/
+/*start:main*/
+#main{
+	background-color:rgba(100,149,237,0.9);
+	width:500px;
+	min-height: 500px;
+	border:solid green;
+	margin:0px auto;
+	position: relative;
+  
+ }
+/*end:main*/
+#nature{
+	background-color:rgba(0,0,255,0.4);
+	position: absolute;
+	border: solid red;
+	width: 150px;
+	height: 150px;
+	top: -50px;
+	left: -50px;
+	color: rgb(0,0,139);
+  
+}
+#passion{
+	background-color: rgba(0,0,205,0.5);
+	width: 150px;
+	height: 150px;
+	border: solid green;
+	position: absolute;
+	top: -70px;
+	right: -70px;
+	z-index: -1;
+	color: rgb(0,0,139);
+}
+#sites{
+	background-color:rgba(0,0,255,0.6);
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border: solid green;
+	bottom: -50px;
+	left: -50px;
+	z-index: -2;
+	color: rgb(0,0,139);
+}
+#wild{
+	background-color:rgba(0,0,205,0.7);
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border: inset green;
+	bottom: -70px;
+	right: -70px;
+	color: rgb(0,0,139);
+}
+#images{
+	   text-align: center;
+	   margin-top: 50px;
+}
+.panel{
+	text-align: right;
+}
+
+

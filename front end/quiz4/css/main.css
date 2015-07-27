@@ -1,0 +1,78 @@
+body{
+    background: linear-gradient(to bottom right, green , white); /* Standard syntax */
+    color: blue
+   }
+
+h1{
+     color:cyan;
+     font-family: italic;
+     font-size: 40px
+     text :underline;
+}
+
+h3{
+	color:magenta;
+	font-family:inherit;
+}
+#container{
+	width: 900px;
+	margin: 0px auto;
+	border: ridge;
+}
+#top ol li{
+
+	background:#228B22;
+	width:400px;
+	height: 20px; 
+	border-color: yellow;
+	color: #A52A2A;
+	text-decoration: overline;
+	}
+#panel{
+     background-color: pink;
+	 color:#FF1493;
+	 width: 450px;
+	 margin: 20px ;
+	 border: dashed;
+	 border-color: lime;
+	 padding:20px ;	
+}
+#bottom{
+	  background-color:#FF00FF;
+	 font-style: oblique;
+	 margin: 50px 40px 50px 40px;
+	 color: forestgreen;
+	 border: 60px 60px 60px 60px;
+	 border-color:orange;
+	 border-style: dashed; 
+	 width: 450px;
+}
+#title{
+       font-family: serif;
+       color:yellow; 
+       border: 40px 50px 80px 30px;
+       border-style: dashed;
+       border-radius: 50px; 
+       text-align: center;
+       background-color:rgba(192,192,192,0.2);
+       width: 500px;
+
+}
+ol{
+	list-style: armenian;
+}
+
+#heading{
+	   border-style: solid;
+	   border-color: #00ff00;
+	   background-color: brown;
+	   text-transform: uppercase;
+	   text-shadow:70px;
+}
+.place{font-style: italic;
+	    color: gold;	  
+}
+
+
+
+

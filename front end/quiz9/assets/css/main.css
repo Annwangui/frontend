@@ -1,0 +1,48 @@
+/*start:body*/
+body{ 
+	background-color:rgb(208,208,208); 
+	border-color:#E6E6FA;
+	padding top: 100px;
+	margin-top:50px;
+
+}
+/*end:body*/
+/*start:main*/
+#main{
+	background-image: url(../images/snw.jpg);
+	border:inset;
+	border-color:white;
+	border-radius: 50px;
+	margin:0px auto;
+	position: relative;
+	width: 300px;
+	min-height:100px;
+	background: -webkit-radial-gradient(red, green, yellow); /* Safari 5.1 to 6.0 */
+  background: -o-radial-gradient(red, green, yellow); /* For Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(red, green, yellow); /* For Firefox 3.6 to 15 */
+  background: radial-gradient(red, green, yellow); /* Standard syntax */
+/*end:main*/
+
+
+}
+#body{
+	text-decoration: italic;
+	padding: 20px; 
+
+}
+ul li{
+	display: inline-block;
+	padding: 0px 60px;
+}
+a{
+	text-decoration: overline;
+}
+h3{
+	text-align: center;
+}
+label{
+	padding: 5px;
+}
+input{
+	padding: 5px;
+}

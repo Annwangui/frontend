@@ -1,0 +1,86 @@
+  body{ 
+	background-color:#E6E6FA;
+	background-image: url(../images/roseann.jpg);
+	border:hidden;
+	border-color: purple;
+	border-spacing: 10px;
+	border-radius: 200px;
+
+}
+#container {
+	background-color:pink;
+	width: 700px;
+	margin: 0px auto;
+	border: dashed;
+	border-color:orange; 
+    border-radius: 60px;
+    padding: 20px 30px 40px 50px;
+    }
+
+#topic{
+	color:orange;
+	font-family: italic;
+	font-size:15px;
+	text-transform: uppercase;
+	text-decoration: underline;
+	text-shadow:20px 20px 20px red;
+
+}
+#paragraph{
+	width: 250px;
+	background-color: #00FFFF;
+	border: dashed;
+	border-color:green;
+	border-radius: 20px;
+	color: red; 
+	padding: 10px 15px 20px 25px;
+	border-spacing: 30px;
+}
+#first{
+	background-color: yellow;
+	border: inset;
+	border-color: #00FFFF;
+	border-bottom: #0000FF;	
+	color: #3CB371;
+	width: 350px;
+	border-radius: 30px;
+}
+
+#last{
+	background-color: #FF7F50;
+	border: dotted;
+	border-color: #DC143C;
+	border-bottom: #B8860B;
+	color: #7CFC00;
+	width: 400px;
+	border-radius: 20px;
+	font-size: 20px;
+	overflow: scroll;
+	orphans: 20px;	
+}
+#home{
+	background-color: white;
+	border:ridge;
+	border-radius: 20px;
+	width: 370px;
+	text-align: center;
+}
+#end{
+	background-color: violet;
+	text-decoration: underline;
+	color: brown;
+	font-size: 20px;
+	border-radius: 20px;
+	border: hidden;
+	text-align: center;
+	width: 250px;
+	float: center;
+}
+#image{
+	width: 250px;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}

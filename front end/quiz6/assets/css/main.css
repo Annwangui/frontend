@@ -1,0 +1,96 @@
+/*start:body*/
+body{ 
+	background-color:rgba(124,252,0,0.1);
+	background-image:url(../images/st.jpg); 
+	border-color:#E6E6FA;
+	margin-top: 100px;
+}
+/*end:body*/
+/*start:main*/
+#main{
+	background-color:rgb(124,252,0);
+	background-image:url(../images/apples.jpg); 
+	width: 700px;
+	min-height: 800px;
+	border:solid green;
+	margin: 0px auto;
+    padding-bottom:10px;
+}
+/*end:main*/
+/*start:ann*/
+#ann{
+	background-color:rgba(124,252,0,0.6);
+	color: gray;
+	width: 275px;
+	height: 200px;
+	float:  left;
+	border: solid yellow;
+	margin: 50px 0px 50px 50px;
+	display: inline-block;
+}
+/*end:ann*/
+/*start:wangui*/
+#wangui{
+	background-color:rgb(124,252,0); 
+	width: 700px;
+	color:#228B22; 
+	width: 275px;
+	height: 200px;
+	float:right;
+	border: solid lime;
+	display: inline-block;
+	margin: 50px 50px 50px 0px;
+}
+/*end:wangui*/
+/*start:bob*/
+#bob{
+	background-color:rgb(124,252,0);
+	width: 600px ;   
+	height:200px; 
+    border: solid navy;
+	margin: 0px auto;
+}
+/*end:bob*/
+/*start:bcar*/
+#bcar{
+	float: left;
+}
+#pinky{
+	float: right;
+}
+/*end:bcar*/
+/*start:roby*/
+#roby{
+	background-color:rgb(124,252,0);
+	color: rgb(255,255,255);
+	float: left;
+	border: solid orange;
+	text-align: center;
+	width: 275px; 
+	height:200px;
+	margin: 30px 0px 50px 50px;
+	display: inline-block;
+}
+/*end:roby*/
+/*start:finish*/
+#finish{
+	background-color:rgb(124,252,0);
+	width: 275px; 
+	height:200px; 
+	float: right;
+	border: solid red;
+    display: inline-block;
+    margin: 30px 50px 50px 0px;
+    color: blacko;
+}
+/*end:finish*/
+ul{
+	list-style: square;
+}
+ol{
+	list-style-type:armenian; 
+}
+#head{
+     text-align: center;
+     color: #99ccff;
+}

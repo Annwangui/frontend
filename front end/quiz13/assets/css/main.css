@@ -1,0 +1,220 @@
+/*start:body*/
+#body{
+  background-color: #0000ff;
+} 
+/*end:body*/
+#main{
+  width: 642px;
+  max-height: 336px;
+  margin: 0px auto;
+  margin-top: 90px;
+  padding: 30px;
+  padding-bottom: 70px;
+  background: -webkit-linear-gradient(left, #d0b4b3 , #9ac7c4); 
+  background: -o-linear-gradient(right, #d0b4b3, #9ac7c4 ); 
+  background: -moz-linear-gradient(right,#d0b4b3 , #9ac7c4); 
+  background: linear-gradient(to right, #d0b4b3 , #9ac7c4); 
+}
+i.fa{
+  color:#6b6f78;
+}
+#joy{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  color: #000000;
+}
+#joy i {
+  border: solid 1px;
+  width: 34px;
+  height: 33px;
+   margin: 12px 0px 12px 0px;
+}
+#peace{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+}
+#peace i{
+  border: solid 1px;
+  width: 34px;
+  height: 33px;
+  border-radius:5px;
+ margin: 12px 0px 12px 0px;
+}
+#love{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+}
+#love i{
+  width: 34px;
+  height: 33px;
+  margin: 12px 0px 12px 0px;
+  border-radius: 5px;
+
+}
+#mercy{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+}
+#mercy i{
+  width: 34px;
+  height: 33px;
+  border-radius:5px;
+   margin: 12px 0px 12px 0px;
+}
+#kind{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+}
+#kind i{
+  width: 34px;
+  height: 33px;
+   margin: 12px 0px 12px 0px;
+}
+#joy a .fa-pinterest{
+  color:#d95258;
+  text-align:center;
+}
+#peace a .fa-flickr{
+  background-color: #ff0085;
+  color: #ffffff;
+}
+#peace a .fa-flickr:hover{
+  background-color: #3b5a9b;
+}
+#love a .fa-dribbble{
+  background-color:#fb73a5;
+  color: #ffffff;
+}
+#love a .fa-dribbble:hover{
+  background-color:#5386bf;
+  }
+#love a .fa-facebook{
+  background-color:#3b5a9b;
+  color: #ffffff;
+}
+#love a .fa-facebook:hover{
+  background-color:#fb73a5;
+}
+#love a .fa-flickr{
+  background-color:#ff0085;
+  color: #ffffff;
+}
+#love a .fa-flickr:hover{
+  background-color:#3b5a9b;
+}
+#love a .fa-google-plus{
+  background-color:#f73c25;
+  color: #ffffff;
+}
+#love a .fa-google-plus:hover{
+  background-color:#fb73a5;
+}
+#love a .fa-instagram{
+  background-color:#5386bf;
+  color: #ffffff;
+}
+#love a .fa-instagram:hover{
+  background-color:#3b5a9b;
+}
+#love a .fa-pinterest{
+  background-color: #c82226;
+  color: #ffffff;
+}
+#love a .fa-pinterest:hover{
+  background-color: #5386df;
+}
+#love a .fa-twitter{
+  background-color:#2baae1;
+  color: #ffffff;
+}
+#love a .fa-twitter:hover{
+  background-color:#3b5a9b;
+  color: #ffffff;
+}
+#love a .fa-youtube{
+  background-color:#ff3430;
+  color: #ffffff;
+}
+#love a .fa-youtube:hover{
+  background-color:#2baae1;
+}
+#mercy a .fa-calendar{
+  background-color:#1abc9c;
+  color:#ffffff;
+}
+#mercy a .fa-calendar:hover{
+  background-color:#3897d9;
+}
+#mercy a .fa-cog{
+  background-color:#30cc71;
+  color:#ffffff;
+}
+#mercy a .fa-cog:hover{
+  background-color:#f49c14;
+}
+#mercy a .fa-heart {
+  background-color:#3897d9;
+  color:#ffffff;
+}
+#mercy a .fa-heart:hover{
+  background-color:#1abc9c;
+ }
+#mercy a .fa-volume-off{
+  background-color:#9c59ba;
+  color:#ffffff;
+}
+#mercy a .fa-volume-off:hover{
+  background-color:#3897d9;
+}
+#mercy a .fa-list-ul{
+  background-color:#33495e;
+  color:#ffffff;
+}
+#mercy a .fa-list-ul:hover{
+  background-color:#3897d9;
+}
+#mercy a .fa-file-o{
+  background-color:#f49c14;
+  color:#ffffff;
+}
+#mercy a .fa-file-o:hover{
+  background-color:#808b8d;
+}
+#mercy a .fa-video-camera{
+  background-color:#e77e23;
+  color:#ffffff;
+}
+#mercy a .fa-video-camera:hover{
+  background-color:#ff3430;
+}
+#mercy a .fa-camera{
+  background-color:#808b8d;
+  color:#ffffff;
+  padding: 1px;
+}
+#mercy a .fa-camera:hover{
+  background-color:#3897d9;
+}
+#kind a .fa-flickr{
+  color:#ff0082;
+}

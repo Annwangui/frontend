@@ -1,0 +1,29 @@
+/*start:main*/
+#main{
+	background-color:rgb(100,149,237);
+	border:inset;
+	border-color:blue;
+	margin:0px auto;
+	position: relative;
+	width: 750px;
+	min-height:100px;
+	
+	
+}
+/*end:main*/
+
+}
+#body{
+	text-decoration: italic;
+    padding: 100px;
+}
+ul li{
+	display: inline-block;
+	padding: 0px 60px;
+}
+a{
+	text-decoration: overline;
+}
+h3{
+	text-align: center;
+}
